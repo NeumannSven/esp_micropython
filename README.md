@@ -1,2 +1,16 @@
 # esp_micropython
-Micropython auf eine ESP32 installieren
+Micropython auf einen ESP32 installieren
+
+
+```python
+
+
+```
+
+
+```console
+
+```
+
+
+
